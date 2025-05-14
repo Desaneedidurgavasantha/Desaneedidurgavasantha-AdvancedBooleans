@@ -35,9 +35,5 @@ public class AdvancedBooleanLogic {
         return !b1 && !b2;
     }
 }
- /**
-     * Neib1 NOR b2
-     *ther b1 nor b2 are true. Return false if either b1 or b2 is true.
-     */
 
 
