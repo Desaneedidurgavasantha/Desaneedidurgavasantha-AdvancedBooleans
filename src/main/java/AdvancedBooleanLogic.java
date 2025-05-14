@@ -2,7 +2,6 @@
  * Boolean operators can be combined just like having multiple mathematical operators in a math equation.
  * Like math equations, they can be combined using parentheses, where the parentheses are completed first. Otherwise,
  * boolean operators are read left to right.
- *
  * Write this boolean logic without using any if statements - that is, you should only use &&, ||, !, ==. All of these
  * problems can be solved in a single line.
  *
