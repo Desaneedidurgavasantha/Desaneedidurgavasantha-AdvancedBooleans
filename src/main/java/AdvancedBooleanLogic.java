@@ -4,7 +4,6 @@
  * boolean operators are read left to right.
  * Write this boolean logic without using any if statements - that is, you should only use &&, ||, !, ==. All of these
  * problems can be solved in a single line.
- *
  * More resources: https://www.geeksforgeeks.org/java-logical-operators-with-examples/
  */
 public class AdvancedBooleanLogic {
