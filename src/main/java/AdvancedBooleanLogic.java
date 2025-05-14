@@ -27,7 +27,6 @@ public class AdvancedBooleanLogic {
     public boolean returnExclusiveOr(boolean b1, boolean b2){
         return b1 != b2;
     }
-
     /**
      * Neither b1 NOR b2
      * @param b1 first boolean to be compared.
